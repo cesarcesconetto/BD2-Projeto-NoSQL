@@ -1,6 +1,6 @@
 # BD2-Projeto-NoSQL
 
-**Mapeamento:**
+## Mapeamento:
 
 | Modelo Conceitual ER |	Tipo no ER			|	MongoDB		|		Tipo no MongoDB	|	Observação |
 | :------------------: | :--------------------: | :-----------: | :-------------------: | :----------: |
