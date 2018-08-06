@@ -4,7 +4,7 @@
 Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consultas
 
 ## Modelo Conceitual:
-./conceitual.png
+/conceitual.png
 
 ## Mapeamento:
 
