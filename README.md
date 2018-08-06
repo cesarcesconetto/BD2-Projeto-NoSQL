@@ -1,5 +1,11 @@
 # BD2-Projeto-NoSQL
 
+## Descrição:
+Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consultas
+
+## Modelo Conceitual:
+
+
 ## Mapeamento:
 
 | Modelo Conceitual ER |	Tipo no ER			|	MongoDB		|		Tipo no MongoDB	|	Observação |
