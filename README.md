@@ -4,7 +4,7 @@
 Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consultas
 
 ## Modelo Conceitual:
-/conceitual.png
+![alt text](https://github.com/cesarcesconetto/BD2-Projeto-NoSQL/blob/master/conceitual.png)
 
 ## Mapeamento:
 
