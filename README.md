@@ -39,6 +39,6 @@ Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consul
 - Menor tempo de resposta a consultas.
 - Permitem a distribuição de dados em múltiplos servidores (clustering) sem prejuízo de performance e de integridade dos dados.
 
-Pontos negativos:
+## Pontos negativos:
 - Não garante consistência das informações.
 - Mais esforço para manutenção.
