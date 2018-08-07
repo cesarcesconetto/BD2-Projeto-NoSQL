@@ -17,7 +17,7 @@ Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consul
 | cpf		           |	Atributo simples	|	campo de Paciente |	campo simples |		campo obrigatório |
 | sexo		           |	Atributo simples	|	campo de Paciente |	campo simples |		campo obrigatório |
 | dataNasc	           |	Atributo simples	|	campo de Paciente |	campo simples	|	campo obrigatório |
-| email		           |	Atributo multivalorado	campo de Paciente |	campo - array	|	campo opcional |
+| email		           |	Atributo multivalorado	| campo de Paciente |	campo - array	|	campo opcional |
 | CONSULTA	           |	Entidade			|	Consulta		|	Coleção			|	Principal entidade no projeto |
 | data		           |	Atributo simples	 |	campo de Consulta |	campo simples	 |	campo obrigatório  |
 | tipo		           |	Atributo simples	 |	campo de Consulta |	campo simples |		campo obrigatório |
