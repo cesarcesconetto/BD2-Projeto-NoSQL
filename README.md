@@ -32,3 +32,13 @@ Gerenciamento de clínica com escopo reduzido entre médicos, pacientes e consul
 | sexo		           |	Atributo simples	 |	campo de Medico |		campo simples |		campo obrigatório |
 | dataNasc	           |	Atributo simples	 |	campo de Medico	 |	campo simples |		campo obrigatório |
 | email		           |	Atributo multivalorado |	campo de Medico	 |	campo - array |		campo opcional |
+
+## Pontos positivos:
+
+- É mais flexível nas inclusões de dados.
+- Menor tempo de resposta a consultas.
+- Permitem a distribuição de dados em múltiplos servidores (clustering) sem prejuízo de performance e de integridade dos dados.
+
+Pontos negativos:
+- Não garante consistência das informações.
+- Mais esforço para manutenção.
